@@ -3,3 +3,4 @@
 3 control de trafico, grado de ocupacion, re ajuste de vias 
 4 control de pasajeros por medio de QR para coronavirus
 5 Sistema de informacion de grado de ocupacion, plataforma de usuario. plataforma de chofer (datos de informacion del usuario)
+Para los pasajeros que tienen tarjeta, seria bueno que al "pagar" se pueda obtener un registro de ingreso, con su nombre
