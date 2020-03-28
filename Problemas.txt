@@ -1,0 +1,2 @@
+1Explotar datos del gps integrado en el puma-katari para evaluar al conductor en sus diferentes tramos
+2 control de salida de buses optimizando 
